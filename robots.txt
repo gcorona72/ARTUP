@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://fortuitous-colors-843929.framer.app/sitemap.xml
